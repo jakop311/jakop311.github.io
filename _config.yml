@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Home
+title: Cripitty
 
 # Your name to show in the footer
 author: Cripitty
@@ -21,10 +21,10 @@ author: Cripitty
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blogs: "_posts"
+#    Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
