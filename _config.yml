@@ -21,7 +21,7 @@ author: Cripitty
 
 navbar-links:
   About Me: "aboutme"
-  Blogs: "_posts"
+  Blogs: "blog"
 #    Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
