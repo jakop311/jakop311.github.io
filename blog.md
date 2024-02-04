@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Blogs
 #subtitle: 
 ---
