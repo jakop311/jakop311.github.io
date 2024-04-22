@@ -4,27 +4,20 @@ title: Cripitty
 #subtitle: 
 ---
 
-```console
+```bash
 Cripitty@console$whoami
 [+] Name: Jako Gabriel Pielago
 [+] Country: Japan
-[+] Position: Security Engineer
+[+] Position: Security Engineer, Cyber Security Enthusiast
 [+] Brain: Loading... / (l%)
 ```
 
 ## Experience
 |    Year        |                                       |
 |:--------------:|:--------------------------------------|
-| 2018 - 2022    | **Ritsumeikan University** |
-|                | **College of Information Science and Engineering**|
-|                | *Network and Security Major*|
-| 2022 - 2024    | **Ritsumeikan University**|
-|                | **Graduate School of Information Science and Engineering**|
-|                | [**Cyber Security Lab**](https://cysec.ise.ritsumei.ac.jp/), *Supervisor: Prof. Uehara Tetsutarou* |
-|                | *Research theme :* *Malware Authorship Attribution*|
-| 2024 - Current | [**RayAegis Japan Inc**](https://www.rayaegis.co.jp/)|
-|                | **Vulnerability Assessment & Penetration Testing Department**|
-|                | *Junior Penetration Tester*|
+| 2018 - 2022    | **Ritsumeikan University** <br /> **College of Information Science and Engineering** <br /> *Network and Security Major*|
+| 2022 - 2024    | **Ritsumeikan University** <br /> **Graduate School of Information Science and Engineering** <br />[**Cyber Security Lab**](https://cysec.ise.ritsumei.ac.jp/)<br />*Supervisor: Prof. Uehara Tetsutarou* <br />*Research theme :* *Malware Authorship Attribution*
+| 2024 - Current | [**RayAegis Japan Inc**](https://www.rayaegis.co.jp/) <br />**Vulnerability Assessment & Penetration Testing Department** <br />*Junior Penetration Tester*|
 
 ### Skills
 - Malware Analysis
