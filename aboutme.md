@@ -13,12 +13,14 @@ Cripitty@console$whoami
 ```
 
 ## Experience
-|Year | Activites|
-|:---:|:---|
+|---
+| Year | Activites  |
+|:-:|:-|
 |2018 - 2022 | **Ritsumeikan University** <br /> **College of Information Science and Engineering** <br /> *Network and Security Major*|
 |2022 - 2024 | **Ritsumeikan University** <br /> **Graduate School of Information Science and Engineering** <br />[**Cyber Security Lab**](https://cysec.ise.ritsumei.ac.jp/)<br />*Supervisor: Prof. Uehara Tetsutarou* <br />*Research theme :* *Malware Authorship Attribution* |
+|---
 |2024 - Current | [**RayAegis Japan Inc**](https://www.rayaegis.co.jp/) <br />**Vulnerability Assessment & Penetration Testing Department** <br />*Junior Penetration Tester* |
-{: rules="groups"}
+
 
 ### Skills
 - Malware Analysis
