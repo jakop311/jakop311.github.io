@@ -5,7 +5,16 @@ title: Cripitty
 ---
 
 ```bash
-Cripitty@console$whoami
+Cripitty@console$ whoami
+ _________
+< whoami? >
+ ---------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
 [+] Name: Jako Gabriel Pielago
 [+] Country: Japan
 [+] Position: Security Engineer, Cyber Security Enthusiast
