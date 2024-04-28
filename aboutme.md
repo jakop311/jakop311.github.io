@@ -14,7 +14,7 @@ Cripitty@console$ whoami
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
+~wWWMmwwww~~~~~wwwwwwwwwwwwwwwWWWMwwww~~~~
 [+] Name: Jako Gabriel Pielago
 [+] Country: Japan
 [+] Position: Security Engineer, Cyber Security Enthusiast
