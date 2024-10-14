@@ -26,13 +26,8 @@ Cripitty@console$ whoami
 | Year            | Activities                                                                                                                                                                                                                                                            |
 |:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  2018 - 2022    | **Ritsumeikan University** <br /> **College of Information Science and Engineering** <br /> *Network and Security Major*                                                                                                                                              |
-<<<<<<< HEAD
 |  2022 - 2024    | **Ritsumeikan University** <br />  **Graduate School of Information Science and Engineering** <br /> [**Cyber Security Lab**](https://cysec.ise.ritsumei.ac.jp) <br /> *Supervisor: Prof. Uehara Tetsutarou* <br /> *Research Theme: Malware Authorship Attribution* |
 |  2024 - Current | [**RayAegis Japan, Inc.**](https://www.rayaegis.co.jp/) <br /> **Vulnerability Assessment & Penetration Testing Department** <br /> *Junior Pentration Tester*                                                                                                       |
-=======
-|  2022 - 2024    | **Ritsumeikan University** <br />  **Graduate Schoole of Information Science and Engineering** <br /> [**Cyber Security Lab**](https://cysec.ise.ritsumei.ac.jp) <br /> *Supervisor: Prof. Uehara Tetsutarou* <br /> *Research Theme: Malware Authorship Attribution* |
-|  2024 - Current | [**RayAegis Japan, Inc.**](https://www.rayaeagis.co.jp/) <br /> **Security Analysis Department** <br /> *Junior Pentration Tester*                                                                                                       |
->>>>>>> f5659d429832bb772c016afff4e16cc1e6dfe1b5
 
 
 ### Skills
